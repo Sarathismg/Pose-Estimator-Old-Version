@@ -11,6 +11,6 @@ for k in range(len(names)):
         print("OIWJEFOJWEOJFOWEOFJOWEJFJOEFWOJOFJWFOJFEOJWE")
         shutil.rmtree('temp', ignore_errors=True)
         os.mkdir('temp')
-    shutil.copy('testfolder\\'+names[k], "temp")
+    shutil.copy('testfolder\'+names[k], "temp")
     
     
