@@ -4,7 +4,7 @@
 </div>
 
 
-## News!
+## News
 
 This is the **beta pytorch** version of AlphaPose. Stable version will be ready in two days. Currently AlphaPose runs at about **5 fps**. Realtime version is coming very soon. Stay tuned!
 
